@@ -11,8 +11,11 @@ If you use any source codes or datasets included in this toolkit in your work, p
       year={2020}
     }
     
+## Try the system
+You can try the demo at https://ask.soco.ai
+    
 ## Index your own data
-You can sign-up for free task at https://app.soco.ai to index your own data.
+You can sign-up for free task at https://app.soco.ai to index your own data. If your index size exceeds the limit, please contact us at [contact@soco.ai] for special offer to researchers and students.
 
 ## Dataset
 There are two types of data:
