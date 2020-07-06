@@ -1,5 +1,5 @@
 # Talk to Paper ACL2020
-Official repository for Talk to Paper demo at ACL2020
+Official repository for Talk to Paper demo at ACL2020 [https://www.aclweb.org/anthology/2020.acl-demos.5/]
 
 ## References 
 If you use any source codes or datasets included in this toolkit in your work, please cite the following paper. The bibtex are listed below:
